@@ -1,0 +1,6 @@
+async-exit-stack==1.0.1
+async-generator==1.10
+fastapi==0.109.2
+SQLAlchemy==2.0.27
+SQLAlchemy-serializer==1.4.1
+uvicorn==0.27.1
