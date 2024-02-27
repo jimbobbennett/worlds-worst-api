@@ -21,6 +21,8 @@ pip install -r requirements.txt
 
 Or by running this inside the provided dev container. In the dev container, the dependencies are already installed.
 
+This API creates a SQLite database called `tickets.db` to store user and ticket data.
+
 ## All the API worst practices...
 
 This API has all the following worst practices:
